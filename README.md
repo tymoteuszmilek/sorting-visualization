@@ -25,7 +25,7 @@ You can access the live demo of this project [here]().
     - Ensure you have Python and pip installed on your machine.
     - Clone the repository:
       ```bash
-      git clone https://github.com/tymoteuszmilek/sorting-visualizer.git
+      git clone https://github.com/tymoteuszmilek/sorting-visualization.git
       cd sorting-algorithm-visualizer
       ```
     - Install the required dependencies:
