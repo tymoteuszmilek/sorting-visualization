@@ -10,7 +10,7 @@ You can access the live demo of this project [here](https://tymoteuszmilek-sorti
 
 ## Features
 - **Interactive UI:** Choose from a variety of sorting algorithms.
-- **Adjustable Parameters:** Change the array size and animation delay.
+- **Adjustable Parameter:** Change the array size.
 - **Real-Time Visualization:** Watch how the array gets sorted step-by-step.
 
 ## Sorting Algorithms Implemented
