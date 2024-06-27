@@ -42,5 +42,5 @@ You can access the live demo of this project [here](https://tymoteuszmilek-sorti
 
 3. **Interact with the App:**
     - Select a sorting algorithm from the dropdown menu.
-    - Adjust the array sizeusing the provided slider.
+    - Adjust the array size using the provided slider.
     - Click the "Sort" button to see the algorithm in action.
