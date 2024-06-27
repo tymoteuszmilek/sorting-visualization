@@ -6,7 +6,7 @@ This Streamlit web application visualizes various sorting algorithms in action, 
 
 ## Demo
 
-You can access the live demo of this project [here]().
+You can access the live demo of this project [here](https://tymoteuszmilek-sorting-visualization-main-knhseu.streamlit.app).
 
 ## Features
 - **Interactive UI:** Choose from a variety of sorting algorithms.
@@ -26,7 +26,7 @@ You can access the live demo of this project [here]().
     - Clone the repository:
       ```bash
       git clone https://github.com/tymoteuszmilek/sorting-visualization.git
-      cd sorting-algorithm-visualizer
+      cd sorting-visualization
       ```
     - Install the required dependencies:
       ```bash
@@ -36,7 +36,7 @@ You can access the live demo of this project [here]().
 2. **Run the Application:**
     - Start the Streamlit app:
       ```bash
-      streamlit run visualizer.py
+      streamlit run main.py
       ```
     - Open the web browser and go to 'localhost:8501' to view the app.
 
