@@ -38,7 +38,7 @@ You can access the live demo of this project [here](https://tymoteuszmilek-sorti
       ```bash
       streamlit run main.py
       ```
-    - Open the web browser and go to 'localhost:8501' to view the app.
+    - Open the web browser and go to http://localhost:8501 to view the app.
 
 3. **Interact with the App:**
     - Select a sorting algorithm from the dropdown menu.
